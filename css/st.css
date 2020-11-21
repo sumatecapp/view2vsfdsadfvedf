@@ -1,0 +1,121 @@
+body {
+  background-color: white;
+  padding: 0%;
+  margin: 0% auto;
+}
+
+.t1 {
+  text-align: center;
+  color: black;
+  font-family: arial, sans-serif;
+  cursor: default;
+}
+
+.button1 {
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+
+.button2 {
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+
+.t2 {
+  font-family: arial, sans-serif;
+  text-align: center;
+}
+
+.allb {
+  cursor: default;
+}
+
+#re {
+   border-radius: 6px;
+   border-color: #303030;
+   cursor: default;
+}
+
+#n1, #n2{
+  border-radius: 10px;
+  border-color: #303030;
+  cursor: pointer;
+}
+
+.all-content {
+  background-color: #F2F2F2;
+}
+
+.res {
+  font-family: arial, sans-serif;
+  text-align: center;
+  cursor: default;
+}
+
+.fo {
+  text-align: center;
+
+}
+
+.cl {
+  text-align: center;
+}
+
+.bo {
+  text-align: center;
+  box-shadow: 0px 0px 0px 0px #3dc21b;
+  background-color: transparent;
+  border-radius: 19px;
+  border: 1px solid #131313;
+  display: inline-block;
+  cursor: pointer;
+  color: #2D2C2C;
+  font-family: arial, sans-serif;
+  font-size: 17px;
+  padding: 8px 18px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #2f6627;
+}
+
+.bo:hover {
+  background-color: #2db8f0;
+  border: none;
+}
+
+.bo:active {
+  position: relative;
+  top: 1px;
+}
+
+.clear {
+  text-align: center;
+}
+
+html {
+  background-color: #B7B7B7;
+}
+
+.hj {
+  text-align: center;
+  box-shadow: 0px 0px 0px 0px #3dc21b;
+  background-color: transparent;
+  border-radius: 19px;
+  border: 1px solid #131313;
+  display: inline-block;
+  cursor: pointer;
+  color: #2D2C2C;
+  font-family: arial, sans-serif;
+  font-size: 17px;
+  padding: 8px 18px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #2f6627;
+}
+
+.hj:hover {
+  background-color: rgb(233, 137, 47);
+}
+
+.hj:active {
+  position: relative;
+  top: 1px;
+}
